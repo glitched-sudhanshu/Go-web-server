@@ -3,6 +3,9 @@
 This project demonstrates how an HTML form communicates with a Go HTTP
 server using HTTP.
 
+## Project architecture
+<img width="1140" height="563" alt="image" src="https://github.com/user-attachments/assets/1583aa36-5299-4643-aaf0-26a91f89ebcf" />
+
 ## Project structure
 
 ``` text
